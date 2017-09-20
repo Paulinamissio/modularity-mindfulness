@@ -5,3 +5,11 @@ html {
 i {
   font-family: "Noto Sans Japanese", sans-serif;
 }
+
+.red {
+  color: #b64c6e;
+}
+
+.red:hover {
+  color: #860927;
+}
